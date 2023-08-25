@@ -12,9 +12,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.lin</groupId>
-    <artifactId>SpringbootInit-Backend</artifactId>
+    <artifactId>OJ-Backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springboot-init</name>
+    <name>OJ判题系统</name>
     <properties>
         <java.version>1.8</java.version>
     </properties>
