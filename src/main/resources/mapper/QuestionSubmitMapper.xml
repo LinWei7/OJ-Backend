@@ -4,7 +4,7 @@
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.lin.springbootinitbackend.mapper.QuestionSubmitMapper">
 
-    <resultMap id="BaseResultMap" type="com.lin.springbootinitbackend.model.entity.QuestionSubmit">
+    <resultMap id="BaseResultMap" type="com.lin.OJ.model.entity.QuestionSubmit">
             <id property="id" column="id" jdbcType="BIGINT"/>
             <result property="language" column="language" jdbcType="VARCHAR"/>
             <result property="code" column="code" jdbcType="VARCHAR"/>
